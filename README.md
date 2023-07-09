@@ -5,6 +5,7 @@ By Victor Mwatu DSF-05
 <div>
 <center><img src="data/19256b1d974c217158df92d9871eaa58.avif" height="300"/></center>
 </div>
+
 ## 1. Overview
 
 Based on the Northwestern county real estate data set, this is a real estate analysis for a hypothetical real estate agency to find trends and useful information that can be applied to improve sales.
